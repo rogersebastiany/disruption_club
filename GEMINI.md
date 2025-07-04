@@ -1,4 +1,8 @@
 Disruption Club: Project & Development Guidelines
+
+0. Context
+When necessary, update the project context file `context.md`. This allows me to create another context when I want to and save the previous context.
+
 1. Project Overview
 This section provides the essential context for the Disruption Club application.
 
